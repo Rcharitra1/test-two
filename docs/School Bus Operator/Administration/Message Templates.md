@@ -5,7 +5,9 @@ sidebar_position: 6
 # Message Templates
 
 ### What is a message template?
+:::info
 Message templates can be created by users to set custom messages to be used in alert systems.
+:::
 ![img src](/img/message-template.png)
 
 ### How to add a message template?

@@ -5,7 +5,9 @@ sidebar_position: 8
 # Settings
 
 ### What are Settings?
+:::info
 Settings is used for editing or updating  the currently selected organisations attributes i.e. profile, address, service area and general settings.
+:::
 
 ### How do I update profile settings for my organisation?
 1. This section can be used to edit and update **profile** settings such as **organisation name, organisation code and time zone**.

@@ -5,7 +5,9 @@ sidebar_position: 5
 # General Fences
 
 ### What is a general fence?
+:::info
 A general fence is a point of interest along a route, such as a railway crossing or traffic circle, which can affect an asset’s run time. General fences are marked on the map and schools and consortiums will be notified when an asset enters and exits a fence via GPS.
+:::
 
 ![img alt](/img/general-fences.png)
 

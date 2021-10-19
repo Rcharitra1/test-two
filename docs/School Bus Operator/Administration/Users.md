@@ -9,7 +9,7 @@ sidebar_position: 2
 Users are people that can be added to be given a certain access on the portal depending on which role they will be assigned to by the Admin. Users can either be added as a Bus Admin operator, Driver, Dispatcher, or Report Viewer.
 
 
-![img alt](/img/users.PNG)
+![img alt](/img/users.png)
 
 ### How to add users?
 
@@ -28,3 +28,13 @@ Users are people that can be added to be given a certain access on the portal de
 :::
 
  6. Click ![img alt](/img/save-btn.png)
+
+
+ ### How to edit / remove a User?
+
+1. Click the **blue dots** icon at the end of a specific organization listed
+2. Choose between **Edit** or **Delete** 
+    - **Edit** - allows to change any information of the user
+    - **Delete**- deletes the user in the list
+
+3. Click ![img alt](/img/save-btn.png)
